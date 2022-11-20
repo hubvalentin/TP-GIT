@@ -1,5 +1,5 @@
 def ecrire(chaine):
-    print chaine
+    print(chaine)
 
 
 ecrire('Hello world')
