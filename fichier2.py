@@ -1,1 +1,0 @@
-print('fichier non vide')
