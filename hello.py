@@ -3,3 +3,6 @@ def ecrire(chaine):
 
 
 ecrire('Hello world')
+
+
+#Ajout d'un commentaire
